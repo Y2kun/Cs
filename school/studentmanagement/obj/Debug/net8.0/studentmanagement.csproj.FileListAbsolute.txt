@@ -1,0 +1,15 @@
+/home/yumaf/Programming/C#/school/studentmanagement/bin/Debug/net8.0/studentmanagement
+/home/yumaf/Programming/C#/school/studentmanagement/bin/Debug/net8.0/studentmanagement.deps.json
+/home/yumaf/Programming/C#/school/studentmanagement/bin/Debug/net8.0/studentmanagement.runtimeconfig.json
+/home/yumaf/Programming/C#/school/studentmanagement/bin/Debug/net8.0/studentmanagement.dll
+/home/yumaf/Programming/C#/school/studentmanagement/bin/Debug/net8.0/studentmanagement.pdb
+/home/yumaf/Programming/C#/school/studentmanagement/obj/Debug/net8.0/studentmanagement.csproj.AssemblyReference.cache
+/home/yumaf/Programming/C#/school/studentmanagement/obj/Debug/net8.0/studentmanagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/yumaf/Programming/C#/school/studentmanagement/obj/Debug/net8.0/studentmanagement.AssemblyInfoInputs.cache
+/home/yumaf/Programming/C#/school/studentmanagement/obj/Debug/net8.0/studentmanagement.AssemblyInfo.cs
+/home/yumaf/Programming/C#/school/studentmanagement/obj/Debug/net8.0/studentmanagement.csproj.CoreCompileInputs.cache
+/home/yumaf/Programming/C#/school/studentmanagement/obj/Debug/net8.0/studentmanagement.dll
+/home/yumaf/Programming/C#/school/studentmanagement/obj/Debug/net8.0/refint/studentmanagement.dll
+/home/yumaf/Programming/C#/school/studentmanagement/obj/Debug/net8.0/studentmanagement.pdb
+/home/yumaf/Programming/C#/school/studentmanagement/obj/Debug/net8.0/studentmanagement.genruntimeconfig.cache
+/home/yumaf/Programming/C#/school/studentmanagement/obj/Debug/net8.0/ref/studentmanagement.dll

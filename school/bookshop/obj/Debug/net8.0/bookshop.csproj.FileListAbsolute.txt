@@ -1,0 +1,15 @@
+/home/yumaf/RiderProjects/school/bookshop/bin/Debug/net8.0/bookshop
+/home/yumaf/RiderProjects/school/bookshop/bin/Debug/net8.0/bookshop.deps.json
+/home/yumaf/RiderProjects/school/bookshop/bin/Debug/net8.0/bookshop.runtimeconfig.json
+/home/yumaf/RiderProjects/school/bookshop/bin/Debug/net8.0/bookshop.dll
+/home/yumaf/RiderProjects/school/bookshop/bin/Debug/net8.0/bookshop.pdb
+/home/yumaf/RiderProjects/school/bookshop/obj/Debug/net8.0/bookshop.csproj.AssemblyReference.cache
+/home/yumaf/RiderProjects/school/bookshop/obj/Debug/net8.0/bookshop.GeneratedMSBuildEditorConfig.editorconfig
+/home/yumaf/RiderProjects/school/bookshop/obj/Debug/net8.0/bookshop.AssemblyInfoInputs.cache
+/home/yumaf/RiderProjects/school/bookshop/obj/Debug/net8.0/bookshop.AssemblyInfo.cs
+/home/yumaf/RiderProjects/school/bookshop/obj/Debug/net8.0/bookshop.csproj.CoreCompileInputs.cache
+/home/yumaf/RiderProjects/school/bookshop/obj/Debug/net8.0/bookshop.dll
+/home/yumaf/RiderProjects/school/bookshop/obj/Debug/net8.0/refint/bookshop.dll
+/home/yumaf/RiderProjects/school/bookshop/obj/Debug/net8.0/bookshop.pdb
+/home/yumaf/RiderProjects/school/bookshop/obj/Debug/net8.0/bookshop.genruntimeconfig.cache
+/home/yumaf/RiderProjects/school/bookshop/obj/Debug/net8.0/ref/bookshop.dll

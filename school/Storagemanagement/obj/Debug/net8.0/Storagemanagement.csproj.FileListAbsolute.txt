@@ -1,0 +1,15 @@
+/home/yumaf/Programming/C#/school/Storagemanagement/obj/Debug/net8.0/Storagemanagement.csproj.AssemblyReference.cache
+/home/yumaf/Programming/C#/school/Storagemanagement/obj/Debug/net8.0/Storagemanagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/yumaf/Programming/C#/school/Storagemanagement/obj/Debug/net8.0/Storagemanagement.AssemblyInfoInputs.cache
+/home/yumaf/Programming/C#/school/Storagemanagement/obj/Debug/net8.0/Storagemanagement.AssemblyInfo.cs
+/home/yumaf/Programming/C#/school/Storagemanagement/obj/Debug/net8.0/Storagemanagement.csproj.CoreCompileInputs.cache
+/home/yumaf/Programming/C#/school/Storagemanagement/bin/Debug/net8.0/Storagemanagement
+/home/yumaf/Programming/C#/school/Storagemanagement/bin/Debug/net8.0/Storagemanagement.deps.json
+/home/yumaf/Programming/C#/school/Storagemanagement/bin/Debug/net8.0/Storagemanagement.runtimeconfig.json
+/home/yumaf/Programming/C#/school/Storagemanagement/bin/Debug/net8.0/Storagemanagement.dll
+/home/yumaf/Programming/C#/school/Storagemanagement/bin/Debug/net8.0/Storagemanagement.pdb
+/home/yumaf/Programming/C#/school/Storagemanagement/obj/Debug/net8.0/Storagemanagement.dll
+/home/yumaf/Programming/C#/school/Storagemanagement/obj/Debug/net8.0/refint/Storagemanagement.dll
+/home/yumaf/Programming/C#/school/Storagemanagement/obj/Debug/net8.0/Storagemanagement.pdb
+/home/yumaf/Programming/C#/school/Storagemanagement/obj/Debug/net8.0/Storagemanagement.genruntimeconfig.cache
+/home/yumaf/Programming/C#/school/Storagemanagement/obj/Debug/net8.0/ref/Storagemanagement.dll

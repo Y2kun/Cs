@@ -1,0 +1,2 @@
+/home/yumaf/RiderProjects/projects/hello/bin/Release/net8.0/linux-x64/publish/hello.pdb
+/home/yumaf/RiderProjects/projects/hello/bin/Release/net8.0/linux-x64/publish/hello

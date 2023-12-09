@@ -1,0 +1,15 @@
+/home/yumaf/RiderProjects/challenges/enToPigLatin/bin/Debug/net8.0/enToPigLatin
+/home/yumaf/RiderProjects/challenges/enToPigLatin/bin/Debug/net8.0/enToPigLatin.deps.json
+/home/yumaf/RiderProjects/challenges/enToPigLatin/bin/Debug/net8.0/enToPigLatin.runtimeconfig.json
+/home/yumaf/RiderProjects/challenges/enToPigLatin/bin/Debug/net8.0/enToPigLatin.dll
+/home/yumaf/RiderProjects/challenges/enToPigLatin/bin/Debug/net8.0/enToPigLatin.pdb
+/home/yumaf/RiderProjects/challenges/enToPigLatin/obj/Debug/net8.0/enToPigLatin.csproj.AssemblyReference.cache
+/home/yumaf/RiderProjects/challenges/enToPigLatin/obj/Debug/net8.0/enToPigLatin.GeneratedMSBuildEditorConfig.editorconfig
+/home/yumaf/RiderProjects/challenges/enToPigLatin/obj/Debug/net8.0/enToPigLatin.AssemblyInfoInputs.cache
+/home/yumaf/RiderProjects/challenges/enToPigLatin/obj/Debug/net8.0/enToPigLatin.AssemblyInfo.cs
+/home/yumaf/RiderProjects/challenges/enToPigLatin/obj/Debug/net8.0/enToPigLatin.csproj.CoreCompileInputs.cache
+/home/yumaf/RiderProjects/challenges/enToPigLatin/obj/Debug/net8.0/enToPigLatin.dll
+/home/yumaf/RiderProjects/challenges/enToPigLatin/obj/Debug/net8.0/refint/enToPigLatin.dll
+/home/yumaf/RiderProjects/challenges/enToPigLatin/obj/Debug/net8.0/enToPigLatin.pdb
+/home/yumaf/RiderProjects/challenges/enToPigLatin/obj/Debug/net8.0/enToPigLatin.genruntimeconfig.cache
+/home/yumaf/RiderProjects/challenges/enToPigLatin/obj/Debug/net8.0/ref/enToPigLatin.dll

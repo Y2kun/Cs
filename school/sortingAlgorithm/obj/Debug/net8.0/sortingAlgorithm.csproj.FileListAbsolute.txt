@@ -1,0 +1,15 @@
+/home/yumaf/RiderProjects/school/sortingAlgorithm/bin/Debug/net8.0/sortingAlgorithm
+/home/yumaf/RiderProjects/school/sortingAlgorithm/bin/Debug/net8.0/sortingAlgorithm.deps.json
+/home/yumaf/RiderProjects/school/sortingAlgorithm/bin/Debug/net8.0/sortingAlgorithm.runtimeconfig.json
+/home/yumaf/RiderProjects/school/sortingAlgorithm/bin/Debug/net8.0/sortingAlgorithm.dll
+/home/yumaf/RiderProjects/school/sortingAlgorithm/bin/Debug/net8.0/sortingAlgorithm.pdb
+/home/yumaf/RiderProjects/school/sortingAlgorithm/obj/Debug/net8.0/sortingAlgorithm.csproj.AssemblyReference.cache
+/home/yumaf/RiderProjects/school/sortingAlgorithm/obj/Debug/net8.0/sortingAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/home/yumaf/RiderProjects/school/sortingAlgorithm/obj/Debug/net8.0/sortingAlgorithm.AssemblyInfoInputs.cache
+/home/yumaf/RiderProjects/school/sortingAlgorithm/obj/Debug/net8.0/sortingAlgorithm.AssemblyInfo.cs
+/home/yumaf/RiderProjects/school/sortingAlgorithm/obj/Debug/net8.0/sortingAlgorithm.csproj.CoreCompileInputs.cache
+/home/yumaf/RiderProjects/school/sortingAlgorithm/obj/Debug/net8.0/sortingAlgorithm.dll
+/home/yumaf/RiderProjects/school/sortingAlgorithm/obj/Debug/net8.0/refint/sortingAlgorithm.dll
+/home/yumaf/RiderProjects/school/sortingAlgorithm/obj/Debug/net8.0/sortingAlgorithm.pdb
+/home/yumaf/RiderProjects/school/sortingAlgorithm/obj/Debug/net8.0/sortingAlgorithm.genruntimeconfig.cache
+/home/yumaf/RiderProjects/school/sortingAlgorithm/obj/Debug/net8.0/ref/sortingAlgorithm.dll

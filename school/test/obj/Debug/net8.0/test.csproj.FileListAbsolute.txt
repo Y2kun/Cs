@@ -1,0 +1,15 @@
+/home/yumaf/Programming/C#/school/test/bin/Debug/net8.0/test
+/home/yumaf/Programming/C#/school/test/bin/Debug/net8.0/test.deps.json
+/home/yumaf/Programming/C#/school/test/bin/Debug/net8.0/test.runtimeconfig.json
+/home/yumaf/Programming/C#/school/test/bin/Debug/net8.0/test.dll
+/home/yumaf/Programming/C#/school/test/bin/Debug/net8.0/test.pdb
+/home/yumaf/Programming/C#/school/test/obj/Debug/net8.0/test.csproj.AssemblyReference.cache
+/home/yumaf/Programming/C#/school/test/obj/Debug/net8.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/yumaf/Programming/C#/school/test/obj/Debug/net8.0/test.AssemblyInfoInputs.cache
+/home/yumaf/Programming/C#/school/test/obj/Debug/net8.0/test.AssemblyInfo.cs
+/home/yumaf/Programming/C#/school/test/obj/Debug/net8.0/test.csproj.CoreCompileInputs.cache
+/home/yumaf/Programming/C#/school/test/obj/Debug/net8.0/test.dll
+/home/yumaf/Programming/C#/school/test/obj/Debug/net8.0/refint/test.dll
+/home/yumaf/Programming/C#/school/test/obj/Debug/net8.0/test.pdb
+/home/yumaf/Programming/C#/school/test/obj/Debug/net8.0/test.genruntimeconfig.cache
+/home/yumaf/Programming/C#/school/test/obj/Debug/net8.0/ref/test.dll

@@ -1,0 +1,15 @@
+/home/yumaf/RiderProjects/school/carClass/obj/Debug/net8.0/carClass.csproj.AssemblyReference.cache
+/home/yumaf/RiderProjects/school/carClass/obj/Debug/net8.0/carClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/yumaf/RiderProjects/school/carClass/obj/Debug/net8.0/carClass.AssemblyInfoInputs.cache
+/home/yumaf/RiderProjects/school/carClass/obj/Debug/net8.0/carClass.AssemblyInfo.cs
+/home/yumaf/RiderProjects/school/carClass/obj/Debug/net8.0/carClass.csproj.CoreCompileInputs.cache
+/home/yumaf/RiderProjects/school/carClass/bin/Debug/net8.0/carClass
+/home/yumaf/RiderProjects/school/carClass/bin/Debug/net8.0/carClass.deps.json
+/home/yumaf/RiderProjects/school/carClass/bin/Debug/net8.0/carClass.runtimeconfig.json
+/home/yumaf/RiderProjects/school/carClass/bin/Debug/net8.0/carClass.dll
+/home/yumaf/RiderProjects/school/carClass/bin/Debug/net8.0/carClass.pdb
+/home/yumaf/RiderProjects/school/carClass/obj/Debug/net8.0/carClass.dll
+/home/yumaf/RiderProjects/school/carClass/obj/Debug/net8.0/refint/carClass.dll
+/home/yumaf/RiderProjects/school/carClass/obj/Debug/net8.0/carClass.pdb
+/home/yumaf/RiderProjects/school/carClass/obj/Debug/net8.0/carClass.genruntimeconfig.cache
+/home/yumaf/RiderProjects/school/carClass/obj/Debug/net8.0/ref/carClass.dll

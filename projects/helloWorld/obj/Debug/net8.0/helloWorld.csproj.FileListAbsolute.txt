@@ -1,0 +1,15 @@
+/home/yumaf/RiderProjects/projects/helloWorld/bin/Debug/net8.0/helloWorld
+/home/yumaf/RiderProjects/projects/helloWorld/bin/Debug/net8.0/helloWorld.deps.json
+/home/yumaf/RiderProjects/projects/helloWorld/bin/Debug/net8.0/helloWorld.runtimeconfig.json
+/home/yumaf/RiderProjects/projects/helloWorld/bin/Debug/net8.0/helloWorld.dll
+/home/yumaf/RiderProjects/projects/helloWorld/bin/Debug/net8.0/helloWorld.pdb
+/home/yumaf/RiderProjects/projects/helloWorld/obj/Debug/net8.0/helloWorld.csproj.AssemblyReference.cache
+/home/yumaf/RiderProjects/projects/helloWorld/obj/Debug/net8.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/yumaf/RiderProjects/projects/helloWorld/obj/Debug/net8.0/helloWorld.AssemblyInfoInputs.cache
+/home/yumaf/RiderProjects/projects/helloWorld/obj/Debug/net8.0/helloWorld.AssemblyInfo.cs
+/home/yumaf/RiderProjects/projects/helloWorld/obj/Debug/net8.0/helloWorld.csproj.CoreCompileInputs.cache
+/home/yumaf/RiderProjects/projects/helloWorld/obj/Debug/net8.0/helloWorld.dll
+/home/yumaf/RiderProjects/projects/helloWorld/obj/Debug/net8.0/refint/helloWorld.dll
+/home/yumaf/RiderProjects/projects/helloWorld/obj/Debug/net8.0/helloWorld.pdb
+/home/yumaf/RiderProjects/projects/helloWorld/obj/Debug/net8.0/helloWorld.genruntimeconfig.cache
+/home/yumaf/RiderProjects/projects/helloWorld/obj/Debug/net8.0/ref/helloWorld.dll

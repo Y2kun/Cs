@@ -1,0 +1,15 @@
+/home/yumaf/Programming/C#/school/Tennisclub/obj/Debug/net8.0/Tennisclub.csproj.AssemblyReference.cache
+/home/yumaf/Programming/C#/school/Tennisclub/obj/Debug/net8.0/Tennisclub.GeneratedMSBuildEditorConfig.editorconfig
+/home/yumaf/Programming/C#/school/Tennisclub/obj/Debug/net8.0/Tennisclub.AssemblyInfoInputs.cache
+/home/yumaf/Programming/C#/school/Tennisclub/obj/Debug/net8.0/Tennisclub.AssemblyInfo.cs
+/home/yumaf/Programming/C#/school/Tennisclub/obj/Debug/net8.0/Tennisclub.csproj.CoreCompileInputs.cache
+/home/yumaf/Programming/C#/school/Tennisclub/bin/Debug/net8.0/Tennisclub
+/home/yumaf/Programming/C#/school/Tennisclub/bin/Debug/net8.0/Tennisclub.deps.json
+/home/yumaf/Programming/C#/school/Tennisclub/bin/Debug/net8.0/Tennisclub.runtimeconfig.json
+/home/yumaf/Programming/C#/school/Tennisclub/bin/Debug/net8.0/Tennisclub.dll
+/home/yumaf/Programming/C#/school/Tennisclub/bin/Debug/net8.0/Tennisclub.pdb
+/home/yumaf/Programming/C#/school/Tennisclub/obj/Debug/net8.0/Tennisclub.dll
+/home/yumaf/Programming/C#/school/Tennisclub/obj/Debug/net8.0/refint/Tennisclub.dll
+/home/yumaf/Programming/C#/school/Tennisclub/obj/Debug/net8.0/Tennisclub.pdb
+/home/yumaf/Programming/C#/school/Tennisclub/obj/Debug/net8.0/Tennisclub.genruntimeconfig.cache
+/home/yumaf/Programming/C#/school/Tennisclub/obj/Debug/net8.0/ref/Tennisclub.dll

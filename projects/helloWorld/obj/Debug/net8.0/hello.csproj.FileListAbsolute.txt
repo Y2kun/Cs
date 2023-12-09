@@ -1,0 +1,15 @@
+/home/yumaf/RiderProjects/projects/hello/bin/Debug/net8.0/hello
+/home/yumaf/RiderProjects/projects/hello/bin/Debug/net8.0/hello.deps.json
+/home/yumaf/RiderProjects/projects/hello/bin/Debug/net8.0/hello.runtimeconfig.json
+/home/yumaf/RiderProjects/projects/hello/bin/Debug/net8.0/hello.dll
+/home/yumaf/RiderProjects/projects/hello/bin/Debug/net8.0/hello.pdb
+/home/yumaf/RiderProjects/projects/hello/obj/Debug/net8.0/hello.csproj.AssemblyReference.cache
+/home/yumaf/RiderProjects/projects/hello/obj/Debug/net8.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/yumaf/RiderProjects/projects/hello/obj/Debug/net8.0/hello.AssemblyInfoInputs.cache
+/home/yumaf/RiderProjects/projects/hello/obj/Debug/net8.0/hello.AssemblyInfo.cs
+/home/yumaf/RiderProjects/projects/hello/obj/Debug/net8.0/hello.csproj.CoreCompileInputs.cache
+/home/yumaf/RiderProjects/projects/hello/obj/Debug/net8.0/hello.dll
+/home/yumaf/RiderProjects/projects/hello/obj/Debug/net8.0/refint/hello.dll
+/home/yumaf/RiderProjects/projects/hello/obj/Debug/net8.0/hello.pdb
+/home/yumaf/RiderProjects/projects/hello/obj/Debug/net8.0/hello.genruntimeconfig.cache
+/home/yumaf/RiderProjects/projects/hello/obj/Debug/net8.0/ref/hello.dll

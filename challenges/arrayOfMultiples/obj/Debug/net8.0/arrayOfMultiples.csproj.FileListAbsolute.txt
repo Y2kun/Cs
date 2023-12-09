@@ -1,0 +1,15 @@
+/home/yumaf/RiderProjects/challenges/arrayOfMultiples/bin/Debug/net8.0/arrayOfMultiples
+/home/yumaf/RiderProjects/challenges/arrayOfMultiples/bin/Debug/net8.0/arrayOfMultiples.deps.json
+/home/yumaf/RiderProjects/challenges/arrayOfMultiples/bin/Debug/net8.0/arrayOfMultiples.runtimeconfig.json
+/home/yumaf/RiderProjects/challenges/arrayOfMultiples/bin/Debug/net8.0/arrayOfMultiples.dll
+/home/yumaf/RiderProjects/challenges/arrayOfMultiples/bin/Debug/net8.0/arrayOfMultiples.pdb
+/home/yumaf/RiderProjects/challenges/arrayOfMultiples/obj/Debug/net8.0/arrayOfMultiples.csproj.AssemblyReference.cache
+/home/yumaf/RiderProjects/challenges/arrayOfMultiples/obj/Debug/net8.0/arrayOfMultiples.GeneratedMSBuildEditorConfig.editorconfig
+/home/yumaf/RiderProjects/challenges/arrayOfMultiples/obj/Debug/net8.0/arrayOfMultiples.AssemblyInfoInputs.cache
+/home/yumaf/RiderProjects/challenges/arrayOfMultiples/obj/Debug/net8.0/arrayOfMultiples.AssemblyInfo.cs
+/home/yumaf/RiderProjects/challenges/arrayOfMultiples/obj/Debug/net8.0/arrayOfMultiples.csproj.CoreCompileInputs.cache
+/home/yumaf/RiderProjects/challenges/arrayOfMultiples/obj/Debug/net8.0/arrayOfMultiples.dll
+/home/yumaf/RiderProjects/challenges/arrayOfMultiples/obj/Debug/net8.0/refint/arrayOfMultiples.dll
+/home/yumaf/RiderProjects/challenges/arrayOfMultiples/obj/Debug/net8.0/arrayOfMultiples.pdb
+/home/yumaf/RiderProjects/challenges/arrayOfMultiples/obj/Debug/net8.0/arrayOfMultiples.genruntimeconfig.cache
+/home/yumaf/RiderProjects/challenges/arrayOfMultiples/obj/Debug/net8.0/ref/arrayOfMultiples.dll
